@@ -15,13 +15,20 @@ En este primer semestre tenemos sólo dos materias:
 
 ## Son objetivos de la asignatura que el alumno logre:
 − Comprender conceptos fundamentales.
+
 − Conocer las estructuras de control y cómo utilizarlas.
+
 − Aprender a trabajar con variables y realizar operaciones con ellas.
+
 − Identificar el tipo de datos adecuado para cada variable.
+
 − Comprender cómo y cuándo corresponde utilizar colecciones.
+
 − Entender los fundamentos del manejo de archivos.
+
 − Adquirir capacidades para el diseño de programas a través de la técnica de
 modularización.
+
 − Asimilar conceptos básicos de eficiencia de algoritmos.
 
 ## INTRODUCCION A LA INFORMATICA
