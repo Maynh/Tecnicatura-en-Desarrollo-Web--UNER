@@ -8,7 +8,7 @@ En este primer semestre tenemos sólo dos materias:
 
 
 
-###PROGRAMACIÓN, EN ESTA MATERIA NOS ENSEÑARAN PROGRAMAR PYTHON
+###PROGRAMACIÓN, EN ESTA MATERIA NOS ENSEÑARAN PROGRAMAR PYTHON 
 
 ![image](https://tse4.mm.bing.net/th?id=OIP.RTQdRj1eX2m0VBsHT8cYSQHaE8&pid=Api&P=0&h=180)
 
